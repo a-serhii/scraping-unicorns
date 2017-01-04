@@ -1,0 +1,1 @@
+Collecting information that appears when you hover
